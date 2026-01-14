@@ -65,3 +65,4 @@ Language-Translation-System/
 - User input is not stored, ensuring privacy  
 
 - Not suitable for legal, medical, or sensitive translations without human verification  
+
