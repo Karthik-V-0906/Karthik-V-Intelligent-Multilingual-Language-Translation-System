@@ -1,0 +1,6 @@
+torch
+transformers
+langdetect
+gTTS
+ipywidgets
+ipython
