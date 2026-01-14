@@ -47,7 +47,7 @@ Manual translation methods are time-consuming and inefficient, making them unsui
 
 2. Open the notebook:
 
-    jupyter notebook language_translation.ipynb
+    jupyter notebook "language Translation System.ipynb"
 
 3. Run all cells and start translating
 
@@ -63,4 +63,5 @@ Language-Translation-System/
 ## Ethical Considerations
 - Translation results may not always be fully accurate  
 - User input is not stored, ensuring privacy  
+
 - Not suitable for legal, medical, or sensitive translations without human verification  
